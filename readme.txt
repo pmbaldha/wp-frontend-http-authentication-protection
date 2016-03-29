@@ -4,7 +4,8 @@ Tags: frontend,http,auth,protection,security
 Requires at least: 3.3.0
 Tested up to: 4.4.2
 Stable tag: trunk
-License: Private
+License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Frontend HTTP Authentication Protection makes private front part of your website. When web developer like to give demo of website to end client before release of final website, this plugin provides security to your site from search engine and other visitors. 
 
