@@ -10,7 +10,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Frontend HTTP Authentication Protection makes private front part of your website. When web developer like to give demo of website to end client before release of final website, this plugin provides security to your site from search engine and other visitors. 
 
 == Description ==
-Frontend HTTP Authentication Protection provides simple HTTP authentication layer to your  fronend site. There is often need to prevent normal visitors and search engine from navigating front website, when website is in development environment before release website in production environment. This plugin serves this need very well by adding HTTP authentication layer to frontend site. This Wordpress Plugin uses HTTP Basic Authentication. This wordpress plugin is fully configurable from admin panel.  This Plugin will not give role based access or multiple usename and password setting facility.== Installation ==
+Frontend HTTP Authentication Protection provides simple HTTP authentication layer to your  fronend site. There is often need to prevent normal visitors and search engine from navigating front website, when website is in development environment before release website in production environment. This plugin serves this need very well by adding HTTP authentication layer to frontend site. This Wordpress Plugin uses HTTP Basic Authentication. This plugin is fully configurable from admin panel.
+
+== Installation ==
 1. Upload the entire `frontend-http-auth-protection` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the \'Plugins\' menu in admin panel.
 3. Go to setting > Frontend HTTP Authentication for configuring setting and test functionality given by plugin.
